@@ -1,9 +1,10 @@
-﻿;made by aryan1400 or arian1400
+;made by aryan1400 or arian1400 or Aryan140001
 
 ;lowest time between every click and next click
 lowest = 51 
 ;highest time between every click and next click
 highest = 201
+
 
 
 on = 0
